@@ -1,17 +1,7 @@
 # Tugas 1
 
-Zahra Dyah Meilani - 05111940000069
+Nama    : Zahra Dyah Meilani 
 
-Nama benda : Ikat Masker
+NRP     : 05111940000069
 
-Depan Atas
-![depan-atas](foto/depan%20atas.jpg)
-
-Belakang Atas
-![belakang-atas](foto/belakang%20atas.jpg)
-
-Kanan Atas
-![kanan-atas](foto/kanan%20atas.jpg)
-
-Kiri Atas
-![kiri-atas](foto/kiri%20atas.jpg)
+Kelas   : Grafika Komputer - D
